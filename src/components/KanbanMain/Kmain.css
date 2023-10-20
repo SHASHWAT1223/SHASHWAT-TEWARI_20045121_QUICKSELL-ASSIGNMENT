@@ -1,0 +1,17 @@
+.CContainer {
+  align-content: center;
+  flex-direction: column;
+  gap: 5px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+}
+
+.Container {
+  gap: 20px;
+  flex-wrap: wrap;
+  background: #f3f3fb;
+  padding: 5px 10px;
+  display: flex;
+  align-items: flex-start;
+}
